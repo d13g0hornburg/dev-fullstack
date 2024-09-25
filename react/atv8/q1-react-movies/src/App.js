@@ -21,7 +21,7 @@ const App = () => {
           type="text"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          placeholder="Localizar filmes..."
+          placeholder="Digite termos para localizar filmes..."
           className="input"
         />
         <button onClick={searchMovies} className="button">Localizar</button>
