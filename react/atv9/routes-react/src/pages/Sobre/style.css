@@ -1,0 +1,71 @@
+.sobre-container {
+    max-width: 800px; /* Mesma largura que na página Home */
+    margin: 40px auto; /* Centraliza o conteúdo */
+    padding: 20px; /* Padding interno */
+    background-color: #1e1e1e; /* Cor de fundo */
+    color: #fff; /* Texto branco */
+    border-radius: 8px; /* Bordas arredondadas */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Sombra */
+}
+
+h1 {
+    font-size: 2.5rem; /* Tamanho do título */
+    margin-bottom: 20px; /* Espaço abaixo do título */
+}
+
+p {
+    font-size: 1.2rem; /* Tamanho do texto do parágrafo */
+    line-height: 1.5; /* Altura da linha para legibilidade */
+}
+
+.sobre-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #1e1e1e; /* Fundo escuro */
+    color: #fff; /* Texto branco */
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Sombra */
+}
+
+.sobre-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.sobre-container p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.sobre-section {
+    margin-bottom: 30px;
+}
+
+.sobre-section h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.valores-list {
+    list-style: none;
+    padding: 0;
+}
+
+.valores-list li {
+    margin: 10px 0;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    position: relative;
+    color: #1DA1F2; /* Cor dos valores em azul */
+}
+
+.valores-list li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: #1DA1F2;
+    font-size: 1.5rem;
+}
