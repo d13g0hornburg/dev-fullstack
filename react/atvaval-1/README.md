@@ -1,4 +1,4 @@
-### Atividade Avaliativa 01 - Full-Stack
+# Atividade Avaliativa 01 - Full-Stack
 Faculdade Senac de Jaraguá do Sul - SC
 Aluno: Diego Ricardo Hornburg
 Professora: Karen Carvalho
