@@ -10,7 +10,7 @@ function RoutesApp(){
     return(
         <BrowserRouter >
             <Header/>
-            <Routes basename="/dev-fullstack/react/atvaval-1">
+            <Routes>
                 <Route path="/" element={<Home/>}/> 
                 <Route path="*" element={<Erro/>}/> 
             </Routes>
