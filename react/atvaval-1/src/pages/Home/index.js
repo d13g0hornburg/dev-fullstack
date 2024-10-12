@@ -41,7 +41,7 @@ function Home() {
         <Container>
           <Row>
             <Col md={4}>
-              <img src="dev-diego.jpg" alt="Sua Foto" className="img-fluid rounded-circle" />
+              <img src="dev-diego.jpg" alt="dev-diego.jpg" className="img-fluid rounded-circle" />
             </Col>
             <Col md={8}>
               <h2>Sobre</h2>
