@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 
 function RoutesApp(){
     return(
-        <BrowserRouter basename="/dev-fullstack/react/atvaval-1">
+        <BrowserRouter>
             <Header/>
             <Routes>
                 <Route path="/" element={<Home/>}/> 
