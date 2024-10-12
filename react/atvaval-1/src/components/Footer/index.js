@@ -14,13 +14,13 @@ function Footer() {
                     </a>
                 </div>
                 <div className="mt-2">
-                    <a href="https://linkedin.com" className="text-white mx-2" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/dihb/" className="text-white mx-2" target="_blank" rel="noopener noreferrer">
                         <i className="bi bi-linkedin" style={{ fontSize: '1.5rem' }}></i>
                     </a>
-                    <a href="https://facebook.com" className="text-white mx-2" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.facebook.com/diego.drhcjs.1/" className="text-white mx-2" target="_blank" rel="noopener noreferrer">
                         <i className="bi bi-facebook" style={{ fontSize: '1.5rem' }}></i>
                     </a>
-                    <a href="https://github.com" className="text-white mx-2" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/d13g0hornburg" className="text-white mx-2" target="_blank" rel="noopener noreferrer">
                         <i className="bi bi-github" style={{ fontSize: '1.5rem' }}></i> {/* Ícone do GitHub */}
                     </a>
                 </div>
