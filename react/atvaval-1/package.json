@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "index.js",
   "private": true,
-  "homepage": "https://d13g0hornburg.github.io/dev-fullstack",
+  "homepage": "https://d13g0hornburg.github.io/dev-fullstack/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
